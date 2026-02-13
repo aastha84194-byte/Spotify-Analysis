@@ -27,7 +27,7 @@ The analysis transitions from raw data processing to high-level business intelli
 
 ## Files in this Repository
 ## Files in this Repository
-- [ Download Spotify analysis.pbix](./Spotify analysis.pbix)The full Power BI project file including the Data Model, DAX measures, and interactive dashboards. 
+- ![ Download Spotify analysis.pbix](Spotify analysis.pbix)The full Power BI project file including the Data Model, DAX measures, and interactive dashboards. 
 
 ## Visuals
 ![Dashboard Overview](dashboard.png) This is the overview of my Analysis.

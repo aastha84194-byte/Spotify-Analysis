@@ -29,6 +29,6 @@ The analysis transitions from raw data processing to high-level business intelli
 - `spotify_history.csv`: The raw dataset containing track URIs, timestamps, and playback details.
 
 ## Visuals
-![Dashboard Overview](dashboard.png): This is the overview of my Analysis.
-![Listening Patterns](ListeningPatterns.png): This is the image of Listining Pattern.
-![Detailed Grid](detail.png): This is the image of Listining Pattern.
+![Dashboard Overview](dashboard.png) This is the overview of my Analysis.
+![Listening Patterns](ListeningPatterns.png) This is the image of Listining Pattern.
+![Detailed Grid](detail.png) This is the image of Listining Pattern.

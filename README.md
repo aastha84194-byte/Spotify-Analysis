@@ -26,7 +26,8 @@ The analysis transitions from raw data processing to high-level business intelli
 - **Concepts:** DAX, Data Modeling, Root Cause Analysis (RCA), Heat Maps, Scatter Plot.
 
 ## Files in this Repository
-- `Spotify analysis.pbix`: The full Power BI project file including the Data Model, DAX measures, and interactive dashboards.
+## Files in this Repository
+- [ Download Spotify analysis.pbix](./Spotify analysis.pbix)The full Power BI project file including the Data Model, DAX measures, and interactive dashboards. 
 
 ## Visuals
 ![Dashboard Overview](dashboard.png) This is the overview of my Analysis.

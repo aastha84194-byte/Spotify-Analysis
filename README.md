@@ -15,7 +15,7 @@ The analysis transitions from raw data processing to high-level business intelli
 
 ## Data Pipeline
 1. **Requirement Gathering:** Defining business questions (e.g., "What are my top-played albums?").
-2. **Data Cleaning:** Handling null values and formatting timestamps from `spotify_history.csv`.
+2. **Data Cleaning:** Handling null values and formatting timestamps 
 3. **Data Modeling:** Creating relationships between tracks, artists, and time dimensions.
 4. **DAX Calculations:** Implementing custom measures for LY (Latest Year) and PY (Previous Year) comparisons.
 5. **Insights Generation:** Identifying niche vs. mainstream listening patterns.
@@ -26,7 +26,7 @@ The analysis transitions from raw data processing to high-level business intelli
 - **Concepts:** DAX, Data Modeling, Root Cause Analysis (RCA), Heat Maps, Scatter Plot.
 
 ## Files in this Repository
-- `spotify_history.csv`: The raw dataset containing track URIs, timestamps, and playback details.
+- `Spotify analysis.pbix`: The full Power BI project file including the Data Model, DAX measures, and interactive dashboards.
 
 ## Visuals
 ![Dashboard Overview](dashboard.png) This is the overview of my Analysis.

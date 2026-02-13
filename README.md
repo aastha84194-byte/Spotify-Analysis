@@ -8,8 +8,8 @@ This project provides a comprehensive analysis of personal Spotify listening his
 The analysis transitions from raw data processing to high-level business intelligence insights, visualized through interactive dashboards.
 
 ## Key Features
-- **Temporal Analysis:** Heat maps identifying peak listening hours and weekday vs. weekend patterns.
-- **Artist & Album Metrics:** Identification of Top 5 artists/albums and Year-over-Year (YoY) growth analysis.
+- **Artist , Album & Track Metrics:** Identification of Top 5 artists/albums/tracks , Total Albums/Tracks/Artist Played over time, Latest Year vs. Previous Year Analysis , Albums/Artist/Tracks Played on Weekday & Weekend , No. of Albums/Tracks/Artist Listened by Year, YOY Growth analysis.
+- - **Listening Hours Analysis** – Identify peak listening times using a Heat Map that visualizes patterns across hours and days with color intensity.
 - **Engagement Quadrants:** Scatter plots categorizing tracks by frequency and total listening time.
 - **Drill-Through Reporting:** Detailed grid views allowing for deep dives into specific tracks and albums.
 
@@ -23,11 +23,12 @@ The analysis transitions from raw data processing to high-level business intelli
 ## Tech Stack
 - **Analysis Tool:** Power BI / Excel (as detailed in the PPTX)
 - **Data Source:** Spotify Personal Data (CSV)
-- **Concepts:** DAX, Data Modeling, Root Cause Analysis (RCA), Heat Maps.
+- **Concepts:** DAX, Data Modeling, Root Cause Analysis (RCA), Heat Maps, Scatter Plot.
 
 ## Files in this Repository
 - `spotify_history.csv`: The raw dataset containing track URIs, timestamps, and playback details.
-- ``: The raw dataset containing track URIs, timestamps, and playback details.
 
 ## Visuals
-*(Optional: Add screenshots of your dashboard here to make the README pop!)*
+- `dashboard.png`: This is the overview of my Analysis.
+- `ListeningPattern.png`: This is the image of Listining Pattern.
+-  `detail.png`: This is the image of Listining Pattern.

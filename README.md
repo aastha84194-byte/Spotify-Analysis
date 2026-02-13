@@ -9,7 +9,7 @@ The analysis transitions from raw data processing to high-level business intelli
 
 ## Key Features
 - **Artist , Album & Track Metrics:** Identification of Top 5 artists/albums/tracks , Total Albums/Tracks/Artist Played over time, Latest Year vs. Previous Year Analysis , Albums/Artist/Tracks Played on Weekday & Weekend , No. of Albums/Tracks/Artist Listened by Year, YOY Growth analysis.
-- - **Listening Hours Analysis** – Identify peak listening times using a Heat Map that visualizes patterns across hours and days with color intensity.
+-  **Listening Hours Analysis:** Identify peak listening times using a Heat Map that visualizes patterns across hours and days with color intensity.
 - **Engagement Quadrants:** Scatter plots categorizing tracks by frequency and total listening time.
 - **Drill-Through Reporting:** Detailed grid views allowing for deep dives into specific tracks and albums.
 
@@ -30,5 +30,5 @@ The analysis transitions from raw data processing to high-level business intelli
 
 ## Visuals
 - `dashboard.png`: This is the overview of my Analysis.
-- `ListeningPattern.png`: This is the image of Listining Pattern.
--  `detail.png`: This is the image of Listining Pattern.
+- `ListeningPatterns.png`: This is the image of Listining Pattern.
+- `detail.png`: This is the image of Listining Pattern.

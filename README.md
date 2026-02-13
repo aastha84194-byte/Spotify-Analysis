@@ -32,3 +32,6 @@ The analysis transitions from raw data processing to high-level business intelli
 ![Dashboard Overview](dashboard.png) This is the overview of my Analysis.
 ![Listening Patterns](ListeningPatterns.png) This is the image of Listining Pattern.
 ![Detailed Grid](detail.png) This is the image of Listining Pattern.
+
+Author: [Astha Jadon]
+Contact: [www.linkedin.com/in/aastha-jadon-297890294]
